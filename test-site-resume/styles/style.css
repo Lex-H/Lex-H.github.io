@@ -1,0 +1,34 @@
+html {
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: placeholder: http://fonts.googleapis.com/css?family=Open+Sans;
+    background-color: #FFBB28;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 2px 2px 3px White;
+}
+
+p, li {
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
